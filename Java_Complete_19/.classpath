@@ -2,5 +2,13 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Resources"/>
+	<classpathentry kind="lib" path="E:/selenium Jars/POI-AP-Is/POI APIs/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/selenium Jars/POI-AP-Is/POI APIs/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="E:/selenium Jars/POI-AP-Is/POI APIs/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="E:/selenium Jars/POI-AP-Is/POI APIs/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="E:/selenium Jars/POI-AP-Is/POI APIs/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/selenium Jars/apache-log4j-2.12.1-bin/apache-log4j-2.12.1-bin/log4j-api-2.12.1.jar"/>
+	<classpathentry kind="lib" path="E:/selenium Jars/apache-log4j-2.12.1-bin/apache-log4j-2.12.1-bin/log4j-core-2.12.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
